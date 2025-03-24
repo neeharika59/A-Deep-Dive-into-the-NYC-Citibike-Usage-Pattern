@@ -1,11 +1,11 @@
 # A Deep Dive into the NYC Citibike Usage Pattern
 
 Contributors:
-Dylan Kakkanad
-Boyuan Chen
-Chirayu (Mitthi) Jain
-Lyushen Song
-Pengru Lin
+Dylan Kakkanad </br>
+Boyuan Chen </br>
+Chirayu (Mitthi) Jain </br>
+Lyushen Song </br>
+Pengru Lin </br>
 
 This project analyzes CitiBike usage patterns in New York City to help optimize operations, expand accessibility, and enhance user experience. Using the NYC CitiBike 2014 dataset, we conducted an exploratory data analysis to uncover insights into user behavior based on demographics, trip duration, seasonality, and station popularity.
 
