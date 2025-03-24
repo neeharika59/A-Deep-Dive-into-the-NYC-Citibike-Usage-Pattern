@@ -1,6 +1,6 @@
 # A Deep Dive into the NYC Citibike Usage Pattern
 
-Contributors:
+Contributors: </br>
 Dylan Kakkanad </br>
 Boyuan Chen </br>
 Chirayu (Mitthi) Jain </br>
